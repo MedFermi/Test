@@ -2,6 +2,8 @@ package com.test;
 
 public class Launcher {
 
+    private static int VALUE = 12;
+
     /**
      * @param args
      */
